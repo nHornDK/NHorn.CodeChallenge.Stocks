@@ -1,0 +1,50 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: rgb(52, 66, 107);
+  background: -moz-linear-gradient(
+    180deg,
+    rgba(52, 66, 107, 1) 0%,
+    rgba(45, 60, 96, 1) 22%,
+    rgba(30, 38, 61, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    180deg,
+    rgba(52, 66, 107, 1) 0%,
+    rgba(45, 60, 96, 1) 22%,
+    rgba(30, 38, 61, 1) 100%
+  );
+  background: linear-gradient(
+    180deg,
+    rgba(52, 66, 107, 1) 0%,
+    rgba(45, 60, 96, 1) 22%,
+    rgba(30, 38, 61, 1) 100%
+  );
+  color: #fff;
+  * {
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+}
+.root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-content: stretch;
+  align-items: stretch;
+  height: 100%;
+  header {
+    flex: 0 1 auto;
+  }
+  main {
+    flex: 1 1 auto;
+  }
+  footer {
+    flex: 0 1 auto;
+  }
+}

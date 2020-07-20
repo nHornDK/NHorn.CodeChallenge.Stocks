@@ -1,0 +1,12 @@
+C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities.Tests\obj\Debug\netstandard2.0\NHorn.Utilities.Tests.csprojAssemblyReference.cache
+C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities.Tests\obj\Debug\netstandard2.0\NHorn.Utilities.Tests.AssemblyInfoInputs.cache
+C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities.Tests\obj\Debug\netstandard2.0\NHorn.Utilities.Tests.AssemblyInfo.cs
+C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities.Tests\obj\Debug\netstandard2.0\NHorn.Utilities.Tests.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities.Tests\bin\Debug\netstandard2.0\NHorn.Utilities.Tests.deps.json
+C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities.Tests\bin\Debug\netstandard2.0\NHorn.Utilities.Tests.dll
+C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities.Tests\bin\Debug\netstandard2.0\NHorn.Utilities.Tests.pdb
+C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities.Tests\bin\Debug\netstandard2.0\NHorn.Utilities.dll
+C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities.Tests\bin\Debug\netstandard2.0\NHorn.Utilities.pdb
+C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities.Tests\obj\Debug\netstandard2.0\NHorn.Utilities.Tests.csproj.CopyComplete
+C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities.Tests\obj\Debug\netstandard2.0\NHorn.Utilities.Tests.dll
+C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities.Tests\obj\Debug\netstandard2.0\NHorn.Utilities.Tests.pdb
