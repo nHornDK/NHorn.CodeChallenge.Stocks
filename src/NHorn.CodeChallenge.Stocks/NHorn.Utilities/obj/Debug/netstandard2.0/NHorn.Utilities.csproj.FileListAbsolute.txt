@@ -6,3 +6,4 @@ C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks
 C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities\obj\Debug\netstandard2.0\NHorn.Utilities.csproj.CoreCompileInputs.cache
 C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities\obj\Debug\netstandard2.0\NHorn.Utilities.dll
 C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities\obj\Debug\netstandard2.0\NHorn.Utilities.pdb
+C:\Repositories\GitHub\NHorn.CodeChallenge.Stocks\src\NHorn.CodeChallenge.Stocks\NHorn.Utilities\obj\Debug\netstandard2.0\NHorn.Utilities.csprojAssemblyReference.cache
